@@ -6,7 +6,6 @@ int main(){
 	int x;
     printf("Nhap so seri :");
     scanf("%d",&seri);
-    
     if(seri<1000000 && seri>9999999)
     {
     	printf("Nhap sai");
