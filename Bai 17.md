@@ -1,4 +1,14 @@
-# thanh-
+
+
+
+
+
+
+
+
+
+
+
 #include<stdio.h>
 
 int main(){
